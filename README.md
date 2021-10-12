@@ -1,7 +1,8 @@
 # GetData
 
-#### Summary:
-Pyth
+
+#### Executable:
+`python3 GetData.py`
 
 #### Stack:
 * Python 3.8+

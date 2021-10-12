@@ -10,10 +10,10 @@
 * Pyperclip 1.8
 
 #### Python requirements:
-`/etc/requirements.txt`
+`requirements.txt`
 
 Installation of requirements:  
-`pip3 install -r etc/requirements.txt`
+`pip3 install -r requirements.txt`
 
 #### Developers:
 Shkvalik

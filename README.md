@@ -1,6 +1,5 @@
 # GetData
 
-
 #### Executable:
 `python3 GetData.py`
 
